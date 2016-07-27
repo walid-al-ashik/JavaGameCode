@@ -309,5 +309,3 @@ public class FlappyBird implements ActionListener , MouseListener , KeyListener{
 	}
 }
 
-// write code at 58.00 sec of the vid and problem was game over didnt pop up in
-// the window
